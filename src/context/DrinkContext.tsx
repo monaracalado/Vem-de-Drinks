@@ -13,7 +13,7 @@ export function DrinkProvider({ children }: IChildren) {
 
   async function getDrinks() {
     try {
-      const response = await fetch("../../db.json");
+      const response = await fetch("/db.json");
 
       if (response.ok) {
         const data = await response.json();
