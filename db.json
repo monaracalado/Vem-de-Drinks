@@ -1,0 +1,68 @@
+{
+  "drinks": [
+    {
+      "id": "1",
+      "name": "Frozen Passion Fruit Margarita",
+      "description": "Pode parecer um coquetel muito doce, mas embora seja batido e frutado, é comparativamente seco. Além de gostoso.",
+      "value": 10.55,
+      "type": "28.22% alc./vol.",
+      "img": "frozen-passion-fruit-margarita"
+    },
+    {
+      "id": "2",
+      "name": "Absinthe Colada",
+      "description": " É assustadora a maneira genial e sedutora com que o coco cremoso suaviza o absinto e o rhum agricole nesta colada em versão frapê.",
+      "value": 12.85,
+      "type": "19.63% alc./vol.",
+      "img": "absinthe-colada"
+    },
+    {
+      "id": "3",
+      "name": "Funky Watermelon",
+      "description": " Melancia frutada e new make spirit pungente ficam harmoniosos com limão, licor agridoce e xarope de agave, que dá mais sabor.",
+      "value": 9.48,
+      "type": "13.28% alc./vol.",
+      "img": "funky-watermelon"
+    },
+    {
+      "id": "4",
+      "name": "Ital'americano",
+      "description": " Sabor agridoce da toranja, complexidade herbal delicada, porém assertiva e acidez cítrica.",
+      "value": 8.74,
+      "type": "12.69% alc./vol.",
+      "img": "ital-americano"
+    },
+    {
+      "id": "5",
+      "name": "Angelo Azzurro",
+      "description": " É compost de gin, triple sec e curaçao azul. Cerca de 40 anos após a criação, este clássico italiano foi atualizado com a adição do Bitter Bianco que dá equilíbrio.",
+      "value": 18.25,
+      "type": "34.16% alc./vol.",
+      "img": "angelo-azzurro"
+    },
+    {
+      "id": "6",
+      "name": "Yolanda",
+      "description": " Sabor intenso do vermute sustentado pelo conhaque e o gin. O grenadine acrescenta fruta e o pequeno dash de absinto acrescenta camadas de complexidade.",
+      "value": 14.62,
+      "type": "25.42% alc./vol.",
+      "img": "yolanda"
+    },
+    {
+      "id": "7",
+      "name": "Sherry Kicker Martini",
+      "description": " O Jerez Manzanillla acrescenta suas típicas notas secas e tenuemente salgadas a este excelente 5:1 Dry Martini.",
+      "value": 20.56,
+      "type": "38.78% alc./vol.",
+      "img": "sherry-kicker-martini"
+    },
+    {
+      "id": "8",
+      "name": "Billionaire",
+      "description": " Por que tomar um Millionaire se você pode transformá-lo num Billionaire? Um whiskey sour apropriadamente luxuoso, com absinto, bitter aromático e hortelã.",
+      "value": 22.74,
+      "type": "25.9% alc./vol.",
+      "img": "billionaire"
+    }
+  ]
+}
