@@ -24,7 +24,7 @@ export function Drinks() {
                 <DrinkCard key={drink.id} drinkData={drink} />
               ))
             ) : (
-              <h2>Nenhum café encontrado</h2>
+              <h2>Nenhum drink encontrado</h2>
             )}
           </DrinksContainer>
         </DrinkSection>
